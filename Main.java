@@ -11,7 +11,7 @@ public class Main{
             System.out.print("Enter your choice(1 or 2): ");
             int choice = sc.nextInt();
             ConvertTemp pa = new ConvertTemp(choice);
-        
+            
         sc.close();
     }
 }
